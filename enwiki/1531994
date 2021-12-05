@@ -1,0 +1,185 @@
+{
+  "title": "Moustapha Niasse",
+  "pageID": 1531994,
+  "categories": [
+    "1939 births",
+    "Living people",
+    "Members of the National Assembly (Senegal)",
+    "Presidents of the National Assembly (Senegal)",
+    "Prime Ministers of Senegal",
+    "Foreign ministers of Senegal",
+    "Socialist Party of Senegal politicians",
+    "Alliance of the Forces of Progress (Senegal) politicians",
+    "Senegalese Muslims",
+    "People from Kaolack Region"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moustapha Niasse (born November 4, 1939 ) is a Senegalese politician and diplomat who has been President of the National Assembly since 2012.",
+              "links": [
+                {
+                  "text": "Senegalese",
+                  "type": "internal",
+                  "page": "Senegal"
+                },
+                {
+                  "text": "President of the National Assembly",
+                  "type": "internal",
+                  "page": "List of presidents of the National Assembly of Senegal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Moustapha Niasse"
+                ]
+              }
+            },
+            {
+              "text": "He served in the government of Senegal as Foreign Minister of Senegal from 1978 to 1984 and again from 1993 to 1998.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign Minister of Senegal"
+                }
+              ]
+            },
+            {
+              "text": "He was Prime Minister of Senegal for a few weeks in 1983, and he held that position again from 2000 to 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Senegal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Senegalese politician and diplomat",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "President of the National Assembly of Senegal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the National Assembly of Senegal"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Prime Minister of Senegal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Senegal"
+              }
+            ]
+          },
+          "term2": {
+            "text": "5 April 2000 – 3 March 2001"
+          },
+          "term3": {
+            "text": "3 April 1983 – 29 April 1983"
+          },
+          "office4": {
+            "text": "Foreign Minister of Senegal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign Minister of Senegal"
+              }
+            ]
+          },
+          "image": {
+            "text": "Moustapha Niasse 2009.jpg"
+          },
+          "termstart": {
+            "text": "30 July 2012"
+          },
+          "predecessor": {
+            "text": "Mamadou Seck",
+            "links": [
+              {
+                "text": "Mamadou Seck",
+                "type": "internal",
+                "page": "Mamadou Seck (politician)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Paris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Paris"
+              }
+            ]
+          },
+          "term4": {
+            "text": "1993 – 1998"
+          },
+          "term5": {
+            "text": "1978 – 1984"
+          },
+          "successor5": {
+            "text": "Ibrahima Fall",
+            "links": [
+              {
+                "text": "Ibrahima Fall",
+                "type": "internal",
+                "page": "Ibrahima Fall (politician)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Mamadou Lamine Loum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mamadou Lamine Loum"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mame Madior Boye",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mame Madior Boye"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Jacques Baudin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacques Baudin"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

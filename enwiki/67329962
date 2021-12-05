@@ -1,0 +1,152 @@
+{
+  "title": "Amadou Hott",
+  "pageID": 67329962,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "Pantheon-Sorbonne University alumni",
+    "Government ministers of Senegal",
+    "Political office-holders in Senegal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amadou Hott (born 25 October 1972) is a Senegalese economist and investment banker who has been serving as Minister of Economy, Planning and International Cooperation of Senegal since April 2019.",
+              "links": [
+                {
+                  "text": "Senegalese",
+                  "type": "internal",
+                  "page": "Senegal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amadou Hott"
+                ]
+              }
+            },
+            {
+              "text": "He was formerly the Vice President of the African Development Bank's Power, Energy, Green Growth and Climate Change Complex, a position he held from November 2016 until his Senegalese government appointment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "African Development Bank"
+                }
+              ]
+            },
+            {
+              "text": "Hott's career has spanned more than 20 years in areas including structured finance, sovereign fund management, investment banking, fundraising, infrastructure and the development of integrated energy solutions."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2021",
+          "template": "orphan"
+        },
+        {
+          "date": "December 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Minister of Economy, Planning and International Cooperation of Senegal",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1972",
+          "month": "10",
+          "day": "25",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Amadou Hott"
+          },
+          "image": {
+            "text": "Amadou Hott -- Minister of Economy, Planning and International Cooperation of Senegal.jpg"
+          },
+          "office": {
+            "text": "Minister of Economy, Planning and International Cooperation of Senegal"
+          },
+          "term_start": {
+            "text": "April 2019"
+          },
+          "caption": {
+            "text": "Amadou Hott"
+          },
+          "birth_name": {
+            "text": "Amadou Hott"
+          },
+          "birth_date": {
+            "text": "October 25, 1972"
+          },
+          "birth_place": {
+            "text": "Thiaroye, Senegal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thiaroye"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Senegalese"
+          },
+          "alma_mater": {
+            "text": "Louis Pasteur University\nPantheon-Sorbonne University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Louis Pasteur University"
+              },
+              {
+                "type": "internal",
+                "page": "Pantheon-Sorbonne University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "MONSIEUR AMADOU HOTT Ministre de l'Economie, du Plan et de la Coopération",
+          "url": "https://www.sec.gouv.sn/monsieur-amadou-hott",
+          "website": "Gouvernement République du Sénégal",
+          "access-date": "7 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ndarinfo",
+          "title": "Voici le CV d'Amadou HOTT, Ministre de l'Économie du Plan et de la Coopération",
+          "url": "https://www.ndarinfo.com/Voici-le-CV-d-Amadou-HOTT-Ministre-de-l-Economie-du-Plan-et-de-la-Cooperation_a25085.html",
+          "access-date": "2021-04-06",
+          "website": "NDARINFO.COM",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Barma",
+          "first1": "Aboubacar Yacouba",
+          "title": "Sénégal : l'économiste Amadou Hott, ancien vice-président de la BAD, devient nouveau ministre de l'Economie",
+          "url": "https://afrique.latribune.fr/economie/2019-04-08/senegal-l-economiste-amadou-hott-ancien-vice-president-de-la-bad-devient-nouveau-ministre-de-l-economie-813522.html",
+          "website": "La Tribune Afrique",
+          "publisher": "Publiafrica SA",
+          "access-date": "7 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
