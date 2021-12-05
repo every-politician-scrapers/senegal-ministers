@@ -7,17 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      name_node.text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      name_node.xpath('following-sibling::div').text.tidy
+    end
+
+    private
+
+    def name_node
+      noko.css('div.h4')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('article ul li')
     end
   end
 end
