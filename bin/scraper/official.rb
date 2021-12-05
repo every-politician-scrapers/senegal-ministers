@@ -7,17 +7,26 @@ require 'pry'
 class MemberList
   class Member
     def name
-      name_node.text.tidy
+      name_with_position.first
     end
 
     def position
-      name_node.xpath('following-sibling::div').text.tidy
+      position_as_next_node.empty? ? name_with_position[1] : position_as_next_node
     end
 
     private
 
     def name_node
       noko.css('div.h4')
+    end
+
+    # sometimes the name field also includes the position
+    def name_with_position
+      name_node.text.tidy.split(/, (?=Minister)/)
+    end
+
+    def position_as_next_node
+      name_node.xpath('following-sibling::div').text.tidy
     end
   end
 
