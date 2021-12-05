@@ -9,11 +9,11 @@
       "parent": "Q109927108"
     },
     "source": {
-        "url":   "https://www.presidence.sn/en/institutions/government",
-        "title": "The Senegalese Government: Macky Sall's Government",
+        "url":   "https://sec.gouv.sn/institutions/le-gouvernement",
+        "title": "Le Gouvernement | Gouvernement du Sénégal",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "fr",
+            "wikidata": "Q150"
         }
     },
     "agent": "every-politican-scrapers/senegal-ministers"
