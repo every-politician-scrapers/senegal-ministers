@@ -61,6 +61,19 @@
           "description": "Senegalese politician",
           "bot": "PearBOT 5",
           "template": "short description"
+        },
+        {
+          "text": "Senegalese local elections, 2014",
+          "lt": "local elections",
+          "lan1": "fr",
+          "text1": "Élections locales sénégalaises de 2014",
+          "template": "ill"
+        },
+        {
+          "text": "Dionne Cabinet",
+          "lan1": "fr",
+          "text1": "Gouvernement Dionne",
+          "template": "ill"
         }
       ],
       "references": [
