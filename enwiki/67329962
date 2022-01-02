@@ -115,37 +115,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "MONSIEUR AMADOU HOTT Ministre de l'Economie, du Plan et de la Coopération",
-          "url": "https://www.sec.gouv.sn/monsieur-amadou-hott",
-          "website": "Gouvernement République du Sénégal",
-          "access-date": "7 April 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Ndarinfo",
-          "title": "Voici le CV d'Amadou HOTT, Ministre de l'Économie du Plan et de la Coopération",
-          "url": "https://www.ndarinfo.com/Voici-le-CV-d-Amadou-HOTT-Ministre-de-l-Economie-du-Plan-et-de-la-Cooperation_a25085.html",
-          "access-date": "2021-04-06",
-          "website": "NDARINFO.COM",
-          "language": "fr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Barma",
-          "first1": "Aboubacar Yacouba",
-          "title": "Sénégal : l'économiste Amadou Hott, ancien vice-président de la BAD, devient nouveau ministre de l'Economie",
-          "url": "https://afrique.latribune.fr/economie/2019-04-08/senegal-l-economiste-amadou-hott-ancien-vice-president-de-la-bad-devient-nouveau-ministre-de-l-economie-813522.html",
-          "website": "La Tribune Afrique",
-          "publisher": "Publiafrica SA",
-          "access-date": "7 April 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
