@@ -375,46 +375,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.co.uk/news/world-africa-17508098",
-          "publisher": "BBC News",
-          "title": "Senegal's President-elect Macky Sall hails 'new era'",
-          "date": "26 March 2012",
-          "access-date": "25 March 2012",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.gouv.sn/ministeres/primature/ministre.html",
-          "title": "Official Senegalese government page for Sall",
-          "year": "2006",
-          "access-date": "12 February 2007",
-          "language": "fr",
-          "archive-date": "27 March 2007",
-          "archive-url": "https://web.archive.org/web/20070327062739/http://www.gouv.sn/ministeres/primature/ministre.html",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.gouv.sn/institutions/assemblee_anciens.html",
-          "title": "Les anciens présidents de l'Assemblée nationale",
-          "trans-title": "Former Presidents of the National Assembly",
-          "publisher": "Senegalese government website",
-          "language": "fr",
-          "access-date": "23 November 2008",
-          "archive-url": "https://web.archive.org/web/20081116014948/http://www.gouv.sn/institutions/assemblee_anciens.html",
-          "archive-date": "16 November 2008",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "August 2013",
-          "template": "citation needed"
-        }
       ]
     }
   ]
