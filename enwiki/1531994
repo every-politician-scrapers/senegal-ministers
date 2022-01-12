@@ -169,6 +169,16 @@
                 "page": "Jacques Baudin"
               }
             ]
+          },
+          "party": {
+            "text": "AFP",
+            "links": [
+              {
+                "text": "AFP",
+                "type": "internal",
+                "page": "Alliance of the Forces of Progress (Senegal)"
+              }
+            ]
           }
         }
       ]
