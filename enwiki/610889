@@ -309,6 +309,27 @@
           "successor4": {
             "text": "Doudou Ngom"
           },
+          "office5": {
+            "text": "20th Chairperson of the African Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairperson of the African Union"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Felix Tshisekedi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felix Tshisekedi"
+              }
+            ]
+          },
+          "termstart5": {
+            "text": "5 February 2022"
+          },
           "birth_date": {
             "text": "December 11, 1961"
           },
