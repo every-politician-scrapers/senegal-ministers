@@ -43,14 +43,12 @@
 <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?r9j6k8" />
 <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?r9j6k8" />
 <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?r9j6k8" />
-<link rel="stylesheet" media="all" href="https://www.sec.gouv.sn/sites/default/files/css/menu_icons_1648598265.css?r9j6k8" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/menu_icons_1648598265.css?r9j6k8" />
 <link rel="stylesheet" media="all" href="/themes/sgg/assets/css/app.css?r9j6k8" />
 <link rel="stylesheet" media="all" href="/themes/sgg/assets/css/custom.css?r9j6k8" />
 <link rel="stylesheet" media="all" href="/themes/sgg/assets/css/flickity.css?r9j6k8" />
 
-    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
-<script src="/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
-
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600&display=swap" rel="stylesheet">
@@ -225,7 +223,7 @@
    x block.html.twig
 -->
 <!-- BEGIN OUTPUT from 'themes/sgg/templates/block/block.html.twig' -->
-<div class="search-block-form block block--search block--search-form-block" data-drupal-selector="search-block-form-2" id="block-sgg-search--2" role="search">
+<div class="search-block-form block block--search block--search-form-block" data-drupal-selector="search-block-form" id="block-sgg-search" role="search">
   
     
       
@@ -233,7 +231,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'form' -->
 <!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form.html.twig' -->
-<form action="/search/node" method="get" id="search-block-form--2" accept-charset="UTF-8">
+<form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
   
 
 <!-- THEME DEBUG -->
@@ -245,7 +243,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'form_element_label' -->
 <!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
-<label for="edit-keys--2" class="visually-hidden">Rechercher</label>
+<label for="edit-keys" class="visually-hidden">Rechercher</label>
 <!-- END OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
 
 
@@ -258,7 +256,7 @@
    x input.html.twig
 -->
 <!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input title="Indiquer les termes à rechercher" data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" size="15" maxlength="128" class="form-search" />
+<input title="Indiquer les termes à rechercher" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
 
 <!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
 
@@ -270,95 +268,9 @@
 
 
 <!-- THEME DEBUG -->
-<!-- THEME HOOK: 'captcha' -->
-<!-- BEGIN OUTPUT from 'modules/contrib/captcha/templates/captcha.html.twig' -->
-  
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'details' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/details.html.twig' -->
-<details id="captcha" class="captcha js-form-wrapper form-wrapper" open="open">
-  <summary role="button" aria-controls="captcha" aria-expanded="true" aria-pressed="true">CAPTCHA</summary>
-  This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
-  
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'input__hidden' -->
-<!-- FILE NAME SUGGESTIONS:
-   * input--hidden.html.twig
-   x input.html.twig
--->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="28263" />
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'input__hidden' -->
-<!-- FILE NAME SUGGESTIONS:
-   * input--hidden.html.twig
-   x input.html.twig
--->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="aNuNMRCTCBlZze-BECnxwzcekE75L3pxn8twlt2R_kY" />
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'form_element' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element.html.twig' -->
-<div class="js-form-item form-item js-form-type-textfield form-item-captcha-response js-form-item-captcha-response">
-      
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'form_element_label' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
-<label for="edit-captcha-response--2" class="js-form-required form-required">Math question</label>
-<!-- END OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
-
-
-        <span class="field-prefix">4 + 7 =</span>
-      
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'input__textfield' -->
-<!-- FILE NAME SUGGESTIONS:
-   * input--textfield.html.twig
-   x input.html.twig
--->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input autocomplete="off" data-drupal-selector="edit-captcha-response" aria-describedby="edit-captcha-response--2--description" type="text" id="edit-captcha-response--2" name="captcha_response" value="" size="4" maxlength="2" class="form-text required" required="required" aria-required="true" />
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-
-
-            <div id="edit-captcha-response--2--description" class="description">
-      Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
-    </div>
-  </div>
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/form-element.html.twig' -->
-
-
-  
-</details>
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/details.html.twig' -->
-
-
-
-<!-- END OUTPUT from 'modules/contrib/captcha/templates/captcha.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
 <!-- THEME HOOK: 'container' -->
 <!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
 
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'input__submit' -->
@@ -367,7 +279,7 @@
    x input.html.twig
 -->
 <!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Rechercher" class="button js-form-submit form-submit" />
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Rechercher" class="button js-form-submit form-submit" />
 
 <!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
 
@@ -661,92 +573,6 @@
         </div>
 
 <!-- END OUTPUT from 'core/themes/stable/templates/form/form-element.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'captcha' -->
-<!-- BEGIN OUTPUT from 'modules/contrib/captcha/templates/captcha.html.twig' -->
-  
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'details' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/details.html.twig' -->
-<details id="captcha" class="captcha js-form-wrapper form-wrapper" open="open">
-  <summary role="button" aria-controls="captcha" aria-expanded="true" aria-pressed="true">CAPTCHA</summary>
-  This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
-  
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'input__hidden' -->
-<!-- FILE NAME SUGGESTIONS:
-   * input--hidden.html.twig
-   x input.html.twig
--->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="28263" />
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'input__hidden' -->
-<!-- FILE NAME SUGGESTIONS:
-   * input--hidden.html.twig
-   x input.html.twig
--->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="aNuNMRCTCBlZze-BECnxwzcekE75L3pxn8twlt2R_kY" />
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'form_element' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element.html.twig' -->
-<div class="js-form-item form-item js-form-type-textfield form-item-captcha-response js-form-item-captcha-response">
-      
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'form_element_label' -->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
-<label for="edit-captcha-response--2" class="js-form-required form-required">Math question</label>
-<!-- END OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
-
-
-        <span class="field-prefix">4 + 7 =</span>
-      
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'input__textfield' -->
-<!-- FILE NAME SUGGESTIONS:
-   * input--textfield.html.twig
-   x input.html.twig
--->
-<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-<input autocomplete="off" data-drupal-selector="edit-captcha-response" aria-describedby="edit-captcha-response--2--description" type="text" id="edit-captcha-response--2" name="captcha_response" value="" size="4" maxlength="2" class="form-text required" required="required" aria-required="true" />
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/input.html.twig' -->
-
-
-            <div id="edit-captcha-response--2--description" class="description">
-      Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
-    </div>
-  </div>
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/form-element.html.twig' -->
-
-
-  
-</details>
-
-<!-- END OUTPUT from 'core/themes/stable/templates/form/details.html.twig' -->
-
-
-
-<!-- END OUTPUT from 'modules/contrib/captcha/templates/captcha.html.twig' -->
 
 
 
@@ -1331,26 +1157,11 @@
 
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"a526f693cbf45557b1dc32b1f72e93169bc570be13bb0c39754e372cf8769665"}}</script>
-<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
-<script src="/core/misc/polyfills/element.matches.js?v=9.3.6"></script>
-<script src="/core/misc/polyfills/object.assign.js?v=9.3.6"></script>
-<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
-<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=9.3.6"></script>
-<script src="/core/misc/drupalSettingsLoader.js?v=9.3.6"></script>
-<script src="/sites/default/files/languages/fr_BizMjrl8d9YLX3izE8NhonYKmYnDCi6WmR5yfDtbNiw.js?r9j6k8"></script>
-<script src="/core/misc/drupal.js?v=9.3.6"></script>
-<script src="/core/misc/drupal.init.js?v=9.3.6"></script>
+    <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
 <script src="/themes/sgg/assets/js/flickity.pkgd.min.js?r9j6k8"></script>
 <script src="/themes/sgg/assets/js/jquery.slimmenu.min.js?r9j6k8"></script>
 <script src="/themes/sgg/assets/js/foundation.min.js?r9j6k8"></script>
 <script src="/themes/sgg/assets/js/app.js?r9j6k8"></script>
-<script src="/core/misc/debounce.js?v=9.3.6"></script>
-<script src="/core/misc/jquery.once.bc.js?v=9.3.6"></script>
-<script src="/core/misc/form.js?v=9.3.6"></script>
-<script src="/core/misc/details-summarized-content.js?v=9.3.6"></script>
-<script src="/core/misc/details-aria.js?v=9.3.6"></script>
-<script src="/core/misc/collapse.js?v=9.3.6"></script>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y54BJYMB0F"></script>
