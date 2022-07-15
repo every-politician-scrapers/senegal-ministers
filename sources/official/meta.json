@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Senegal",
+      "id": "Q1041"
+    },
+    "cabinet": {
+      "id": "Q109037626",
+      "start": "2020-11-01",
+      "parent": "Q109927108"
+    },
+    "source": {
+        "url":   "https://sec.gouv.sn/institutions/le-gouvernement",
+        "title": "Le Gouvernement | Gouvernement du Sénégal",
+        "lang":  {
+            "code": "fr",
+            "wikidata": "Q150"
+        }
+    },
+    "agent": "every-politican-scrapers/senegal-ministers"
+}
