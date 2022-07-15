@@ -7,17 +7,32 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.views-field-title').text.tidy
+      Name.new(
+        full: full_name,
+        prefixes: %w[Monsieur Madame Dr.],
+      ).short
     end
 
     def position
-      noko.css('.views-field-field-fonction-du-ministre').text.tidy
+      noko.css('.minister-fonc').text.tidy
     end
+
+    field :gender do
+      return 'male' if full_name.start_with? 'Monsieur'
+      return 'female' if full_name.start_with? 'Madame'
+    end
+
+    private
+
+    def full_name
+      noko.css('.minister-name').text.tidy
+    end
+
   end
 
   class Members
     def member_container
-      noko.css('.view-content').first.css('.views-row')
+      noko.css('.view__content').first.css('.views-row')
     end
   end
 end

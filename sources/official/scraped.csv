@@ -1,38 +1,38 @@
-name,position
-Monsieur Sidiki KABA,Ministre des Forces armées
-Monsieur Abdoulaye Daouda DIALLO,Ministre des Finances et du Budget
-Monsieur Malick SALL,"Garde des Sceaux, Ministre de la Justice"
-Madame Aïssata TALL SALL,Ministre des Affaires étrangères et des Sénégalais de l'Extérieur
-Monsieur Antoine Félix Abdoulaye DIOME,Ministre de l’Intérieur
-Monsieur Mansour FAYE,"Ministre des Infrastructures, des Transports terrestres et du Désenclavement"
-Monsieur Amadou HOTT,"Ministre de l’Economie, du Plan et de la Coopération"
-Madame Mariama SARR,Ministre de la Fonction publique et du Renouveau du Service public
-Monsieur Abdoulaye DIOUF SARR,Ministre de la Santé et de l’Action sociale
-Madame Ndèye Saly DIOP DIENG,"Ministre de la Femme, de la Famille, du Genre et de la Protection des Enfants"
-Monsieur Oumar SARR,Ministre des Mines et de la Géologie
-Monsieur Moussa BALDE,Ministre de l’Agriculture et de l’Equipement Rural
-Monsieur Serigne MBAYE THIAM,Ministre de l’Eau et de l’Assainissement
-Monsieur Alioune SARR,Ministre du Tourisme et des Transports aériens
-Monsieur Oumar GUEYE,"Ministre des Collectivités territoriales, du Développement et de l’Aménagement des Territoires, Porte-Parole du Gouvernement"
-Monsieur Mamadou TALLA,Ministre de l’Education nationale
-Monsieur Cheikh Oumar ANNE,"Ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation"
-Madame Sophie GLADIMA,Ministre du Pétrole et des Energies
-Monsieur Samba Ndiobene KA,"Ministre du Développement communautaire, de l'Equité sociale et territoriale"
-Monsieur Moustapha DIOP,Ministre du Développement industriel et des Petites et Moyennes industries
-Monsieur Alioune NDOYE,Ministre des Pêches et de l’Economie maritime
-Monsieur SAMBA SY,"Ministre du Travail, du Dialogue social et des relations avec les Institutions"
-Monsieur Abdou Karim SALL,Ministre de l’Environnement et du Développement durable
-Monsieur Matar BA,Ministre des Sports
-Monsieur Abdoulaye Saydou SOW,"Ministre de l’Urbanisme, du Logement et de l’Hygiène publique"
-Madame Aminata Assome DIATTA,Ministre du Commerce et des Petites et Moyennes entreprises
-Monsieur Abdoulaye DIOP,Ministre de la Culture et de la Communication
-Monsieur Aly Saleh DIOP,Ministre de l’Elevage et des Productions animales
-Madame Néné Fatoumata TALL,Ministre de la Jeunesse
-Madame Zahra Iyane THIAM,Ministre de la Microfinance et de l’Economie sociale et Solidaire
-Monsieur Dame DIOP,"Ministre de l’Emploi, de la Formation professionnelle, de l’Apprentissage et de l'Insertion"
-Monsieur Papa Amadou NDIAYE,Ministre de l'Artisanat et de la Transformation du Secteur informel
-Monsieur Yankhoba DIATARA,Ministre de l’Economie numérique et des Télécommunications
-Monsieur Moïse Diar Diégane SARR,"Secrétaire d'Etat auprès du Ministre des Affaires étrangères et des Sénégalais de l'Extérieur, chargé des Sénégalais de l'Extérieur"
-Monsieur Mamadou Saliou SOW,"Secrétaire d'Etat auprès du Garde des Sceaux, Ministre de la Justice, chargé de la Promotion des Droits humains et de la Bonne gouvernance"
-Monsieur Mayacine CAMARA,"Secrétaire d'Etat auprès du Ministre des Infrastructures, des Transport terrestres et du Désenclavement, chargé du réseau ferroviaire"
-Madame Victorine NDEYE,"Secrétaire d'Etat auprès du Ministre de l'Urbanisme, du Logement et de l'Hygiène publique, chargé du Logement"
+name,gender,position
+Sidiki KABA,male,Ministre des Forces armées
+Abdoulaye Daouda DIALLO,male,Ministre des Finances et du Budget
+Malick SALL,male,"Garde des Sceaux, Ministre de la Justice"
+Aïssata TALL SALL,female,Ministre des Affaires étrangères et des Sénégalais de l'Extérieur
+Antoine Félix Abdoulaye DIOME,male,Ministre de l’Intérieur
+Mansour FAYE,male,"Ministre des Infrastructures, des Transports terrestres et du Désenclavement"
+Amadou HOTT,male,"Ministre de l’Economie, du Plan et de la Coopération"
+Mariama SARR,female,Ministre de la Fonction publique et du Renouveau du Service public
+Marie Khémesse Ngom Ndiaye,,Ministre de la Santé et de l’Action sociale
+Ndèye Saly DIOP DIENG,female,"Ministre de la Femme, de la Famille, du Genre et de la Protection des Enfants"
+Oumar SARR,male,Ministre des Mines et de la Géologie
+Moussa BALDE,male,Ministre de l’Agriculture et de l’Equipement Rural
+Serigne Mbaye THIAM,male,Ministre de l’Eau et de l’Assainissement
+Alioune SARR,male,Ministre du Tourisme et des Transports aériens
+Oumar GUEYE,male,"Ministre des Collectivités territoriales, du Développement et de l’Aménagement des Territoires, Porte-Parole du Gouvernement"
+Mamadou TALLA,male,Ministre de l’Education nationale
+Cheikh Oumar ANNE,male,"Ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation"
+Sophie GLADIMA,female,Ministre du Pétrole et des Energies
+Samba Ndiobène KA,male,"Ministre du Développement communautaire, de l'Equité sociale et territoriale"
+Moustapha DIOP,male,Ministre du Développement industriel et des Petites et Moyennes industries
+Alioune NDOYE,male,Ministre des Pêches et de l’Economie maritime
+Samba SY,male,"Ministre du Travail, du Dialogue social et des relations avec les Institutions"
+Abdou Karim SALL,male,Ministre de l’Environnement et du Développement durable
+Matar BA,male,Ministre des Sports
+Abdoulaye Saydou SOW,male,"Ministre de l’Urbanisme, du Logement et de l’Hygiène publique"
+Aminata Assome DIATTA,female,Ministre du Commerce et des Petites et Moyennes entreprises
+Abdoulaye DIOP,male,Ministre de la Culture et de la Communication
+Aly Saleh DIOP,male,Ministre de l’Elevage et des Productions animales
+Néné Fatoumata TALL,female,Ministre de la Jeunesse
+Zahra Iyane THIAM,female,Ministre de la Microfinance et de l’Economie sociale et Solidaire
+Dame DIOP,male,"Ministre de l’Emploi, de la Formation professionnelle, de l’Apprentissage et de l'Insertion"
+Papa Amadou NDIAYE,male,Ministre de l'Artisanat et de la Transformation du Secteur informel
+Yankhoba DIATARA,male,Ministre de l’Economie numérique et des Télécommunications
+Moïse Diar Diégane SARR,male,"Secrétaire d'Etat auprès du Ministre des Affaires étrangères et des Sénégalais de l'Extérieur, chargé des Sénégalais de l'Extérieur"
+Mamadou Saliou SOW,male,"Secrétaire d'Etat auprès du Garde des Sceaux, Ministre de la Justice, chargé de la Promotion des Droits humains et de la Bonne gouvernance"
+Mayacine CAMARA,male,"Secrétaire d'Etat auprès du Ministre des Infrastructures, des Transport terrestres et du Désenclavement, chargé du réseau ferroviaire"
+Victorine NDEYE,female,"Secrétaire d'Etat auprès du Ministre de l'Urbanisme, du Logement et de l'Hygiène publique, chargé du Logement"

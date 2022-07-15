@@ -1,2 +1,3 @@
-@@,name,position
----,Mahammed Dionne,Premier ministre du Sénégal
+@@,name,gender,position
+->,Marie Khémesse Ngom Ndiaye,female,ministre de la Santé du Sénégal->Ministre de la Santé et de l’Action sociale
+---,Mahammed Dionne,male,Premier ministre du Sénégal
