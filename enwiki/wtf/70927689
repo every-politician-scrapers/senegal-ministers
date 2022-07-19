@@ -1,0 +1,150 @@
+{
+  "title": "Marie Khemesse Ngom Ndiaye",
+  "pageID": 70927689,
+  "categories": [
+    "Living people",
+    "Cheikh Anta Diop University alumni",
+    "21st-century Senegalese politicians",
+    "21st-century Senegalese women politicians",
+    "Health ministers of Senegal",
+    "Senegalese public health doctors",
+    "Senegalese women physicians",
+    "COVID-19 pandemic in Senegal",
+    "Women government ministers of Senegal",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marie Khemesse Ngom Ndiaye is a Senegalese doctor and politician.",
+              "formatting": {
+                "bold": [
+                  "Marie Khemesse Ngom Ndiaye"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Senegalese doctor and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-05-26",
+          "title": "Senegal health minister sacked after babies die in hospital fire",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-senegal-fire-hospital-minister-idAFKCN2NC1V1",
+          "access-date": "2022-06-02",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She graduated from Cheikh Anta Diop University in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cheikh Anta Diop University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "SENDirect",
+          "date": "2022-05-26",
+          "title": "Qui est Dr Marie Khémesse Ngom Ndiaye, la nouvelle ministre de la Santé au Sénégal ?",
+          "url": "https://sendirect.com/2022/05/26/qui-est-dr-marie-khemesse-ngom-ndiaye-la-nouvelle-ministre-de-la-sante-au-senegal/",
+          "access-date": "2022-06-02",
+          "website": "SENDirect",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During the COVID-19 pandemic in Senegal, she served as Director of Public Health at the Ministry of Health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Senegal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2022, she was appointed Minister of Health, replacing Abdoulaye Diouf Sarr who was sacked.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdoulaye Diouf Sarr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-05-27",
+          "title": "Who is Dr Marie Khémesse Ngom Ndiaye, the new Minister of Health in Senegal?",
+          "url": "https://afriq54.com/west-africa/senegal/who-is-dr-marie-khemesse-ngom-ndiaye-the-new-minister-of-health-in-senegal/",
+          "access-date": "2022-06-02",
+          "website": "Afriq54",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Senegal’s president sacks health minister after deadly fire",
+          "url": "https://www.aa.com.tr/en/africa/senegal-s-president-sacks-health-minister-after-deadly-fire/2598796",
+          "access-date": "2022-06-02",
+          "website": "www.aa.com.tr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "senegal-politician-stub"
+        }
+      ]
+    }
+  ]
+}
