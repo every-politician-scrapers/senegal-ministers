@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Foreign Minister of Senegal"
+      ],
+      "stated_as": "Foreign Minister of Senegal"
+    },
+    "P580": "1978",
+    "P582": "1984",
+    "P1366": {
+      "links": [
+        "Ibrahima Fall (politician)"
+      ],
+      "stated_as": "Ibrahima Fall"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Senegal"
+      ],
+      "stated_as": "Prime Minister of Senegal"
+    },
+    "P580": "1983-04-03",
+    "P582": "1983-04-29"
+  },
+  {
+    "office": {
+      "links": [
+        "Foreign Minister of Senegal"
+      ],
+      "stated_as": "Foreign Minister of Senegal"
+    },
+    "P580": "1993",
+    "P582": "1998",
+    "P1366": {
+      "links": [
+        "Jacques Baudin"
+      ],
+      "stated_as": "Jacques Baudin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Senegal"
+      ],
+      "stated_as": "Prime Minister of Senegal"
+    },
+    "P580": "2000-04-05",
+    "P1365": {
+      "links": [
+        "Mamadou Lamine Loum"
+      ],
+      "stated_as": "Mamadou Lamine Loum"
+    },
+    "P582": "2001-03-03",
+    "P1366": {
+      "links": [
+        "Mame Madior Boye"
+      ],
+      "stated_as": "Mame Madior Boye"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Assembly of Senegal"
+      ],
+      "stated_as": "President of the National Assembly of Senegal"
+    },
+    "P580": "2012-07-30",
+    "P1365": {
+      "links": [
+        "Mamadou Seck (politician)"
+      ],
+      "stated_as": "Mamadou Seck"
+    }
+  }
+]

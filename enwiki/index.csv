@@ -1,10 +1,10 @@
-pageid,title
-610889,Macky Sall
-1531994,Moustapha Niasse
-43528226,Mahammed Dionne
-44810616,Sidiki Kaba
-54512688,Mansour Faye
-62707133,Viviane Bampassy
-65854602,Aïssata Tall Sall
-67329962,Amadou Hott
-70927689,Marie Khemesse Ngom Ndiaye
+pageid,title,wikidata,label
+610889,Macky Sall,Q57438,Macky Sall
+1531994,Moustapha Niasse,Q1951094,Moustapha Niasse
+43528226,Mahammed Dionne,Q17320405,Mahammed Dionne
+44810616,Sidiki Kaba,Q19895564,Sidiki Kaba
+54512688,Mansour Faye,Q32857369,Mansour Faye
+62707133,Viviane Bampassy,Q34922655,Viviane Bampassy
+65854602,Aïssata Tall Sall,Q15542603,Aissata Tall Sall
+67329962,Amadou Hott,Q106648177,Amadou Hott
+70927689,Marie Khemesse Ngom Ndiaye,Q112201772,Marie Khemesse Ngom Ndiaye

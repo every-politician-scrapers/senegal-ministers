@@ -1,0 +1,120 @@
+[
+  {
+    "office": {
+      "links": [
+        "Fatick"
+      ],
+      "stated_as": "Mayor of Fatick"
+    },
+    "P580": "2002-06-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Doudou Ngom"
+    },
+    "P582": "2008-11-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Doudou Ngom"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Senegal"
+      ],
+      "stated_as": "Prime Minister of Senegal"
+    },
+    "P580": "2004-07-21",
+    "P1365": {
+      "links": [
+        "Idrissa Seck"
+      ],
+      "stated_as": "Idrissa Seck"
+    },
+    "P582": "2007-06-19",
+    "P1366": {
+      "links": [
+        "Cheikh Hadjibou Soumaré"
+      ],
+      "stated_as": "Cheikh Hadjibou Soumaré"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the National Assembly of Senegal"
+      ],
+      "stated_as": "President of the National Assembly"
+    },
+    "P580": "2007-06-20",
+    "P1365": {
+      "links": [
+        "Pape Diop"
+      ],
+      "stated_as": "Pape Diop"
+    },
+    "P582": "2008-11-09",
+    "P1366": {
+      "links": [
+        "Mamadou Seck (politician)"
+      ],
+      "stated_as": "Mamadou Seck"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Fatick"
+      ],
+      "stated_as": "Mayor of Fatick"
+    },
+    "P580": "2009-04-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Doudou Ngom"
+    },
+    "P582": "2012-04-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Famara Sarr"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Senegal"
+      ],
+      "stated_as": "4th President of Senegal"
+    },
+    "P580": "2012-04-02",
+    "P1365": {
+      "links": [
+        "Abdoulaye Wade"
+      ],
+      "stated_as": "Abdoulaye Wade"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the African Union"
+      ],
+      "stated_as": "20th Chairperson of the African Union"
+    },
+    "P580": "2022-02-05",
+    "P1365": {
+      "links": [
+        "Felix Tshisekedi"
+      ],
+      "stated_as": "Felix Tshisekedi"
+    }
+  }
+]
